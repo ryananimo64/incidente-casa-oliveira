@@ -38,3 +38,7 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
 <div align="center">
 <img src="modeloconceitual.png">
 </div>
+<img src="meu-primeiro-banco-de-dados.png">
+<div>
+  
+</div>
