@@ -34,12 +34,20 @@ gerenciar o negócio e reduzir o tempo que ele passa trabalhando e tenha maior
 organização dos produtos, maior lucratividade e melhorar a gestão. 
 Com a intenção de aumentar o negócio, Roberto está disposto a informatizar 
 sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
+
+
 ### Modelo conceitual
+
+
 <div align="center">
 <img src="modeloconceitual.png">
 </div>
-<img src="meu-primeiro-banco-de-dados.png">
-#### Modelo Conceitual dentro do MySQL
 <div>
-  <img src="Modeluconceitual_png">
+   <img src="meu-primeiro-banco-de-dados.png">
 </div>
+
+
+### Modelo Conceitual dentro do MySQL
+
+
+<div> <img src="Modelucasaoli_png.png"> </div>
