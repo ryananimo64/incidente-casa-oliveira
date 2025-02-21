@@ -39,6 +39,7 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
 <img src="modeloconceitual.png">
 </div>
 <img src="meu-primeiro-banco-de-dados.png">
+#### Modelo Conceitual dentro do MySQL
 <div>
-  
+  <img src="Modeluconceitual_png">
 </div>
